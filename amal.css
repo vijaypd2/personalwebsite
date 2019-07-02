@@ -5,6 +5,7 @@
   position: relative;
   padding-top: 100px;
 background-color: #b1e8ed;
+    width: 100%;
 }
 h2{
   font-family: 'Yesteryear', cursive;
@@ -22,7 +23,7 @@ h2{
 body{
   text-align: center;
   margin: 0;
-  width: auto;
+  width: 100%;
 }
 
 .hack{
@@ -73,6 +74,7 @@ body{
   position: relative;
   padding-top: 100px;
   padding-bottom: 50px;
+    width: 100%;
 
  margin: inherit;
 
@@ -82,6 +84,7 @@ body{
   position: relative;
   padding-top: 80px;
   padding-bottom: 140px;
+    width: 100%;
 
   background-color: #28c3d4;
 }
@@ -93,4 +96,5 @@ body{
   position: relative;
   padding-top: 20px;
   background-color: #5e6073;
+    width: 100%;
 }
