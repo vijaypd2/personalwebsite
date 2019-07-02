@@ -2,10 +2,9 @@
   font-family: 'Rajdhani', sans-serif;
 }
 .upper{
-  position: relative;
+ width: inherit;
   padding-top: 100px;
 background-color: #b1e8ed;
-    width: 100%;
 }
 h2{
   font-family: 'Yesteryear', cursive;
@@ -18,11 +17,12 @@ h2{
   width: 100;
 }
 .grass{
-  width 100%;
+width: inherit;
 }
 body{
   text-align: center;
-  margin: 0;
+
+
   width: 100%;
 }
 
@@ -56,7 +56,7 @@ body{
 }
 .bottomcloud{
   display: block;
-  margin-left: 400px;
+  margin-left: 40%;
   height: 150px;
   width: 200px;
 
@@ -71,21 +71,19 @@ body{
 }
 .mid{
   background-color: #fbd1b7;
-  position: relative;
+
   padding-top: 100px;
   padding-bottom: 50px;
-    width: 100%;
-
+width: inherit;
  margin: inherit;
 
 }
 .bottom{
   font-family: 'Rajdhani', sans-serif;
-  position: relative;
+
   padding-top: 80px;
   padding-bottom: 140px;
-    width: 100%;
-
+width: 100%;
   background-color: #28c3d4;
 }
 .para{font-family: 'Rajdhani', sans-serif;
@@ -96,5 +94,5 @@ body{
   position: relative;
   padding-top: 20px;
   background-color: #5e6073;
-    width: 100%;
+  width: 100%;
 }
