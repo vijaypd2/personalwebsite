@@ -8,8 +8,9 @@ background-color: #b1e8ed;
 }
 h2{
   font-family: 'Yesteryear', cursive;
-  font-size: 4rem;
+  font-size: 8rem;
   padding-top: 150px;
+  text-align: center;
 }
 .me{
   border-radius: 100;
@@ -71,7 +72,7 @@ body{
 }
 .mid{
   background-color: #fbd1b7;
-
+text-align: center;
   padding-top: 100px;
   padding-bottom: 50px;
 width: inherit;
@@ -80,7 +81,7 @@ width: inherit;
 }
 .bottom{
   font-family: 'Rajdhani', sans-serif;
-
+text-align: center;
   padding-top: 80px;
   padding-bottom: 140px;
 width: 100%;
@@ -88,6 +89,7 @@ width: 100%;
 }
 .para{font-family: 'Rajdhani', sans-serif;
   margin-bottom: 150px;
+  text-align: center;
 }
 .foot{
   margin: 0;
@@ -95,4 +97,5 @@ width: 100%;
   padding-top: 20px;
   background-color: #5e6073;
   width: 100%;
+  text-align: center;
 }
